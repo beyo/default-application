@@ -1,0 +1,22 @@
+{
+  "name": "beyo-default-application",
+  "version": "0.0.1",
+  "description": "Default Application Stub for Beyo Framework",
+  "main": "stub.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beyo/default-application.git"
+  },
+  "keywords": [
+    "beyo",
+    "init",
+    "application",
+    "default"
+  ],
+  "author": "Yanick Rochon <yanick.rochon@mind2soft.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beyo/default-application/issues"
+  },
+  "homepage": "https://github.com/beyo/default-application"
+}

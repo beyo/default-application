@@ -1,0 +1,8 @@
+/**
+Module loader
+*/
+
+module.exports = function * %%MODULE_NAME%%Loader(beyo, moduleData) {
+
+
+};
