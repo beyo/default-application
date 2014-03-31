@@ -7,7 +7,7 @@ Application Framework.
 
 ```
 npm install -g beyo
-beyo init https://github.com/beyo/default-application
+beyo init -s https://github.com/beyo/default-application
 ```
 
 ## Authors and Contributors
